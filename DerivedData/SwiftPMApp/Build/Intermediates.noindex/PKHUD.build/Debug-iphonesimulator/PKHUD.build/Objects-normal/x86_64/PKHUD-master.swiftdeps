@@ -1,0 +1,21 @@
+version: "Apple Swift version 5.4.2 (swiftlang-1205.0.28.2 clang-1205.0.19.57)"
+options: "7a7946d8e58d850cf9cc1df0ac5990b5"
+build_time: [1629017451, 494349000]
+inputs:
+  "/Users/hazuki/Desktop/13/la/lifeistech/SwiftPMApp/DerivedData/SwiftPMApp/Build/Intermediates.noindex/PKHUD.build/Debug-iphonesimulator/PKHUD.build/DerivedSources/resource_bundle_accessor.swift": [1629017451, 325092910]
+  "/Users/hazuki/Desktop/13/la/lifeistech/SwiftPMApp/DerivedData/SwiftPMApp/SourcePackages/checkouts/PKHUD/PKHUD/FrameView.swift": [1629017443, 3867137]
+  "/Users/hazuki/Desktop/13/la/lifeistech/SwiftPMApp/DerivedData/SwiftPMApp/SourcePackages/checkouts/PKHUD/PKHUD/HUD.swift": [1629017443, 4018316]
+  "/Users/hazuki/Desktop/13/la/lifeistech/SwiftPMApp/DerivedData/SwiftPMApp/SourcePackages/checkouts/PKHUD/PKHUD/PKHUD.swift": [1629017443, 7619236]
+  "/Users/hazuki/Desktop/13/la/lifeistech/SwiftPMApp/DerivedData/SwiftPMApp/SourcePackages/checkouts/PKHUD/PKHUD/PKHUDAnimating.swift": [1629017443, 7844610]
+  "/Users/hazuki/Desktop/13/la/lifeistech/SwiftPMApp/DerivedData/SwiftPMApp/SourcePackages/checkouts/PKHUD/PKHUD/PKHUDAnimation.swift": [1629017443, 8099674]
+  "/Users/hazuki/Desktop/13/la/lifeistech/SwiftPMApp/DerivedData/SwiftPMApp/SourcePackages/checkouts/PKHUD/PKHUD/PKHUDAssets.swift": [1629017443, 8319545]
+  "/Users/hazuki/Desktop/13/la/lifeistech/SwiftPMApp/DerivedData/SwiftPMApp/SourcePackages/checkouts/PKHUD/PKHUD/PKHUDErrorView.swift": [1629017443, 8620046]
+  "/Users/hazuki/Desktop/13/la/lifeistech/SwiftPMApp/DerivedData/SwiftPMApp/SourcePackages/checkouts/PKHUD/PKHUD/PKHUDProgressView.swift": [1629017443, 8897673]
+  "/Users/hazuki/Desktop/13/la/lifeistech/SwiftPMApp/DerivedData/SwiftPMApp/SourcePackages/checkouts/PKHUD/PKHUD/PKHUDRotatingImageView.swift": [1629017443, 9106119]
+  "/Users/hazuki/Desktop/13/la/lifeistech/SwiftPMApp/DerivedData/SwiftPMApp/SourcePackages/checkouts/PKHUD/PKHUD/PKHUDSquareBaseView.swift": [1629017443, 9280062]
+  "/Users/hazuki/Desktop/13/la/lifeistech/SwiftPMApp/DerivedData/SwiftPMApp/SourcePackages/checkouts/PKHUD/PKHUD/PKHUDSuccessView.swift": [1629017443, 9467094]
+  "/Users/hazuki/Desktop/13/la/lifeistech/SwiftPMApp/DerivedData/SwiftPMApp/SourcePackages/checkouts/PKHUD/PKHUD/PKHUDSystemActivityIndicatorView.swift": [1629017443, 9681929]
+  "/Users/hazuki/Desktop/13/la/lifeistech/SwiftPMApp/DerivedData/SwiftPMApp/SourcePackages/checkouts/PKHUD/PKHUD/PKHUDTextView.swift": [1629017443, 9926615]
+  "/Users/hazuki/Desktop/13/la/lifeistech/SwiftPMApp/DerivedData/SwiftPMApp/SourcePackages/checkouts/PKHUD/PKHUD/PKHUDWideBaseView.swift": [1629017443, 10121232]
+  "/Users/hazuki/Desktop/13/la/lifeistech/SwiftPMApp/DerivedData/SwiftPMApp/SourcePackages/checkouts/PKHUD/PKHUD/Window.swift": [1629017443, 10339855]
+  "/Users/hazuki/Desktop/13/la/lifeistech/SwiftPMApp/DerivedData/SwiftPMApp/SourcePackages/checkouts/PKHUD/PKHUD/WindowRootViewController.swift": [1629017443, 10548706]

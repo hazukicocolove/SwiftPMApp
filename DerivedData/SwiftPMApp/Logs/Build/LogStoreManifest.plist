@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>logFormatVersion</key>
+	<integer>10</integer>
+	<key>logs</key>
+	<dict>
+		<key>327E41A2-E5EE-4A2E-AA78-06BEA04567E7</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>327E41A2-E5EE-4A2E-AA78-06BEA04567E7.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>E</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>SwiftPMApp project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>SwiftPMApp</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build SwiftPMApp</string>
+			<key>timeStartedRecording</key>
+			<real>650710393.553599</real>
+			<key>timeStoppedRecording</key>
+			<real>650710393.77836502</real>
+			<key>title</key>
+			<string>Build SwiftPMApp</string>
+			<key>uniqueIdentifier</key>
+			<string>327E41A2-E5EE-4A2E-AA78-06BEA04567E7</string>
+		</dict>
+		<key>3A2A0D10-7D98-403C-B730-D26EA432A487</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>3A2A0D10-7D98-403C-B730-D26EA432A487.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>SwiftPMApp project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>SwiftPMApp</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build SwiftPMApp</string>
+			<key>timeStartedRecording</key>
+			<real>650710435.61436498</real>
+			<key>timeStoppedRecording</key>
+			<real>650710437.39326203</real>
+			<key>title</key>
+			<string>Build SwiftPMApp</string>
+			<key>uniqueIdentifier</key>
+			<string>3A2A0D10-7D98-403C-B730-D26EA432A487</string>
+		</dict>
+		<key>87F03221-2B69-4EBF-AADC-F6FD0749B0E0</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>87F03221-2B69-4EBF-AADC-F6FD0749B0E0.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>E</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>SwiftPMApp project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>SwiftPMApp</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build SwiftPMApp</string>
+			<key>timeStartedRecording</key>
+			<real>650710374.67173803</real>
+			<key>timeStoppedRecording</key>
+			<real>650710374.91306901</real>
+			<key>title</key>
+			<string>Build SwiftPMApp</string>
+			<key>uniqueIdentifier</key>
+			<string>87F03221-2B69-4EBF-AADC-F6FD0749B0E0</string>
+		</dict>
+	</dict>
+</dict>
+</plist>
